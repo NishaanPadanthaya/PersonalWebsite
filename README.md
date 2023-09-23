@@ -1,4 +1,4 @@
-This webpage is  a personal website created using HTML and CSS to showcase the profile of an individual. Here's a brief explanation of the project:
+This webpage is  a  basic personal website created using HTML and CSS to showcase the profile of an individual. Here's a brief explanation of the project:
 
 1. **HTML Structure:** The HTML document follows the standard structure for a web page. It includes a document type declaration which sets the language to English, and defines the page's metadata within the section, such as the character encoding, viewport settings, and a title.
 
